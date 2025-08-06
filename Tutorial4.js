@@ -1,2 +1,2 @@
 
-console.log("Namaste JS");
+console.log("Namaste Javascript");
